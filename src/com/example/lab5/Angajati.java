@@ -52,7 +52,7 @@ public class Angajati {
     }
  
  
-    public void setDepartament(String departament){
-        this._departament=departament;
+    public void setDepartament(String dept){
+        this._departament=dept;
     }
 }
